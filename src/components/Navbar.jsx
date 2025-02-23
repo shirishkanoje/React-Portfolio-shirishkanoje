@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         {/* Resume Link */}
         <a
-        href="/SHIRISH KANOJE RESUME.pdf"
+        href="/ShirishKanojeResume (1).pdf"
         download="Shirish_Kanoje_Resume"
         className="border-2 border-white text-white text-sm px-1 py-0.3 rounded-lg font-bold hover:bg-white hover:text-black transition-all duration-300"
       >
